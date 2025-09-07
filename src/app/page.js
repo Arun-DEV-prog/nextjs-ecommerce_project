@@ -8,5 +8,5 @@ const page = () => {
     </div>
   );
 };
-
+//nextjs_ecommerce_project
 export default page;
